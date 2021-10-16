@@ -19,7 +19,7 @@ public class SeleniumProject {
 		Thread.sleep(3000);
 		driver.findElement(By.name("Name")).sendKeys("Asha Gaud");
 		Thread.sleep(3000);
-		driver.findElement(By.name("Email")).sendKeys("ashagaud12345678@gmail.com");
+		driver.findElement(By.name("Email")).sendKeys("lishaingawale7@gmail.com");
 		Thread.sleep(3000);
 		driver.findElement(By.linkText("Brand Ambassador")).click();
 		Thread.sleep(3000);
